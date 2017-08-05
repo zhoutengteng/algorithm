@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<department name="娱乐圈">
+    <staff smoker="true">
+        <name>周星驰</name>
+        <age>40</age>
+    </staff>
+    <staff smoker="true">
+        <name>周星驰</name>
+        <age>40</age>
+    </staff>
+    <staff smoker="true">
+        <name>周星驰</name>
+        <age>40</age>
+    </staff>
+</department>
